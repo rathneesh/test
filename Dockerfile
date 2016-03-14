@@ -1,3 +1,4 @@
+# Based on the Fedora image
 FROM fedora
 MAINTAINER http://fedoraproject.org/wiki/Cloud
 
